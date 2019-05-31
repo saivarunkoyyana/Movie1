@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie1</string>
+    <string name="ok">OK</string>
+    <string name="titlename">TITLE :</string>
+    <string name="releasedatetext">RELEASE DATE :</string>
+    <string name="popular_movies">Popular_Movies</string>
+    <string name="toprated_movies">TopRated_Movies</string>
+    <string name="movieimage">movieimages</string>
+    <string name="backdrop_image">backdrop image</string>
+    <string name="textview">TextView</string>
+
+    <string name="poster_image">poster image</string>
+</resources>
